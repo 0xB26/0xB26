@@ -1,0 +1,3 @@
+[submodule "tilix"]
+	path = tilix
+	url = https://github.com/0xB26/tilix
