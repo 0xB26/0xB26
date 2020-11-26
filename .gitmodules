@@ -7,3 +7,6 @@
 [submodule "termite"]
 	path = termite
 	url = https://github.com/0xB26/termite
+[submodule "xresources"]
+	path = xresources
+	url = https://github.com/0xB26/xresources
