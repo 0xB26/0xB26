@@ -4,3 +4,6 @@
 [submodule "alacritty"]
 	path = alacritty
 	url = https://github.com/0xB26/alacritty
+[submodule "termite"]
+	path = termite
+	url = https://github.com/0xB26/termite
